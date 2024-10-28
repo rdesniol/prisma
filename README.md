@@ -1,2 +1,2 @@
 # prisma
-Srtore code to be scan by prisma
+Store code to be scanned by prisma
